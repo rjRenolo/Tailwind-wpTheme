@@ -2,5 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+@import "normalize.css";
 @import "accessibility.css";
 @import "overrides.css";
